@@ -1,0 +1,8 @@
+1 tabelateste.txt
+floute float
+carteres char
+
+2 tabelateste2.txt
+duplo double
+stringe string[50]
+
